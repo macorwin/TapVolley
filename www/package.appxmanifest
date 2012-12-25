@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="a28d4b62-f6b2-4bdc-a0ad-217bd4dc5f0b" Version="1.0.0.0" Publisher="CN=Michael" />
+  <Identity Name="f5018ca8-03f5-4b66-8bd2-a1d291d58db6" Version="1.0.0.0" Publisher="CN=Michael" />
   <Properties>
-    <DisplayName>TapVolley</DisplayName>
+    <DisplayName>App1</DisplayName>
     <PublisherDisplayName>Michael</PublisherDisplayName>
     <Logo>images\storelogo.png</Logo>
   </Properties>
@@ -15,9 +15,9 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="index.html">
-      <VisualElements DisplayName="TapVolley" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="TapVolley" ForegroundText="light" BackgroundColor="#464646">
+      <VisualElements DisplayName="App1" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="App1" ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" />
-        <SplashScreen Image="images/GFX/splash.png" />
+        <SplashScreen Image="images\splashscreen.png" />
       </VisualElements>
     </Application>
   </Applications>
